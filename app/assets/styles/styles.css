@@ -1,0 +1,9 @@
+body {
+	columns: 300px;
+}
+
+.box {
+  a {
+  	display:block;
+  }
+}

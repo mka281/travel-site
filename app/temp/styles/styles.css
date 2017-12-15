@@ -1,0 +1,8 @@
+body {
+	-webkit-columns: 300px;
+	        columns: 300px;
+}
+
+.box a {
+  	display:block;
+  }
