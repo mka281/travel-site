@@ -1,7 +1,6 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.2.1",
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/mka281/travel-site/issues"
   },
-  "homepage": "https://github.com/mka281/travel-site#readme"
+  "homepage": "https://github.com/mka281/travel-site#readme",
+  "description": ""
 }
