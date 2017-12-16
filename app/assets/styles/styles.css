@@ -1,9 +1,5 @@
-body {
-	columns: 300px;
-}
-
-.box {
-  a {
-  	display:block;
-  }
-}
+@import "normalize.css";
+@import "base/_global";
+@import "base/_variables";
+@import "modules/_large-hero";
+@import "modules/_btn";
