@@ -452,7 +452,7 @@ template {
 
 body {
 	font-family: "Roboto", "sans-serif";
-	color: #333;
+  color: #333;
 }
 
 img {
@@ -462,7 +462,6 @@ img {
 
 .large-hero {
   position:relative;
-
 }
 
 .large-hero__text-content {
